@@ -1,0 +1,8 @@
+rootProject.name = "Compose-ToDoList"
+
+///////////////
+// PRODUCT MODULE
+//////
+
+include ':app'
+

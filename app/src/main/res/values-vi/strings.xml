@@ -1,0 +1,97 @@
+<resources>
+    <string name="login_login">Đăng nhập</string>
+    <string name="login_email">Email</string>
+    <string name="login_email_invalid">Email không hợp lệ</string>
+    <string name="login_password">Mật khẩu</string>
+
+    <string name="setting_title">Menu chính</string>
+    <string name="setting_theme">Chủ đề</string>
+    <string name="setting_theme_automatic">Tự động</string>
+    <string name="setting_theme_light">Ban ngày</string>
+    <string name="setting_theme_twilight">Hoàng hôn</string>
+    <string name="setting_theme_night">Nửa đêm</string>
+    <string name="setting_theme_sunrise">Bình minh</string>
+    <string name="setting_theme_aurora">Cực quang</string>
+    <string name="setting_logout">Đăng xuất</string>
+    <string name="setting_logout_confirm">Đăng xuất?</string>
+    <string name="setting_language">Ngôn ngữ</string>
+
+    <string name="todo_done">Hoàn thành</string>
+    <string name="todo_today">Hôm nay</string>
+    <string name="todo_scheduled">Đã lên lịch</string>
+    <string name="todo_all">Tất cả</string>
+    <string name="todo_rename">Đổi tên</string>
+    <string name="todo_skip">Bỏ qua</string>
+    <string name="todo_add">Chọn</string>
+    <string name="todo_note">Ghi chú</string>
+    <string name="todo_add_note">Thêm ghi chú</string>
+    <string name="todo_new_list">Danh sách mới</string>
+    <string name="todo_my_list">Danh sách của tôi</string>
+    <string name="todo_no_list">Không có danh sách</string>
+    <string name="todo_no_task">Không có công việc</string>
+    <string name="todo_cancel">Hủy</string>
+    <string name="todo_group_default_name">Nhóm không tên</string>
+    <string name="todo_group_menu">Menu nhóm</string>
+    <string name="todo_group_menu_add_remove_list">Thêm/xóa danh sách</string>
+    <string name="todo_group_menu_rename">Đổi tên nhóm</string>
+    <string name="todo_group_menu_delete">Xóa nhóm</string>
+    <string name="todo_group_menu_ungroup">Tách danh sách</string>
+    <string name="todo_create_group">Tạo nhóm</string>
+    <string name="todo_create_group_hint">Đặt tên cho nhóm này</string>
+    <string name="todo_create_group_positive">Tạo nhóm</string>
+    <string name="todo_create_list_default_name">Danh sách không tên</string>
+    <string name="todo_create_list">Danh sách mới</string>
+    <string name="todo_create_list_hint">Nhập tiêu đề danh sách</string>
+    <string name="todo_create_list_positive">Tạo danh sách</string>
+    <string name="todo_rename_list">Đổi tên danh sách</string>
+    <string name="todo_rename_list_positive">Lưu</string>
+    <string name="todo_add_task">Thêm công việc</string>
+    <string name="todo_add_task_completed">Hoàn thành</string>
+    <string name="todo_rename_task">Đổi tên công việc</string>
+    <string name="todo_update_group_list">Thêm danh sách vào nhóm</string>
+    <string name="todo_step_rename">Đổi tên bước</string>
+    <string name="todo_step_next">Bước tiếp theo</string>
+    <string name="todo_add_due_date_task">Thêm ngày đến hạn</string>
+    <string name="todo_add_due_date_time_task">Thời gian</string>
+    <string name="todo_add_due_date_repeat_task">Lặp lại</string>
+    <string name="todo_repeat_never">Không bao giờ</string>
+    <string name="todo_repeat_daily">Hàng ngày</string>
+    <string name="todo_repeat_weekdays">Ngày làm việc</string>
+    <string name="todo_repeat_weekly">Hàng tuần</string>
+    <string name="todo_repeat_monthly">Hàng tháng</string>
+    <string name="todo_repeat_yearly">Hàng năm</string>
+
+    <string name="todo_task_item_info">%1$s của %2$s</string>
+    <string name="todo_task_in_progress_date_creation_second">Được tạo vài giây trước</string>
+    <string name="todo_task_in_progress_date_creation_minute">Được tạo %1$s phút trước</string>
+    <string name="todo_task_in_progress_date_creation_hour">Được tạo %1$s giờ trước</string>
+    <string name="todo_task_in_progress_date_creation_yesterday">Được tạo hôm qua</string>
+    <string name="todo_task_in_progress_date_creation_date">Được tạo vào %1$s</string>
+    <string name="todo_task_complete_date_today">Hoàn thành hôm nay</string>
+    <string name="todo_task_complete_date_yesterday">Hoàn thành hôm qua</string>
+    <string name="todo_task_complete_date">Hoàn thành vào %1$s</string>
+    <string name="todo_task_note_update_second">Cập nhật vài giây trước</string>
+    <string name="todo_task_note_update_minute">Cập nhật %1$s phút trước</string>
+    <string name="todo_task_note_update_hour">Cập nhật %1$s giờ trước</string>
+    <string name="todo_task_note_update_yesterday">Cập nhật hôm qua</string>
+    <string name="todo_task_note_update_date">Cập nhật vào %1$s</string>
+
+    <string name="todo_task_today">Hôm nay</string>
+    <string name="todo_task_tomorrow">Ngày mai</string>
+    <string name="todo_task_yesterday">Hôm qua</string>
+    <string name="todo_task_due_date_today">Đến hạn hôm nay</string>
+    <string name="todo_task_due_date_tomorrow">Đến hạn ngày mai</string>
+    <string name="todo_task_due_date_yesterday">Đến hạn hôm qua</string>
+    <string name="todo_task_due_date">Đến hạn %1$s</string>
+
+    <string name="todo_task_channel_name">Công việc nhắc nhở</string>
+    <string name="todo_task_channel_description">Thông báo nhắc nhở</string>
+    <string name="todo_task_notification_action_snooze">Trong 15 phút</string>
+
+    <string name="todo_search">Tìm công việc</string>
+
+    <string name="todo_show_complete">Hiển thị công việc đã hoàn thành</string>
+    <string name="todo_hide_complete">Ẩn công việc đã hoàn thành</string>
+
+    <string name="todo_select_time">Chọn thời gian</string>
+</resources>
